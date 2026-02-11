@@ -13,6 +13,12 @@ The model has been trained to identify the following classes:
 * **[Class 1 Name]**: Description of what this class represents.
 * **[Class 2 Name]**: Description of what this class represents.
 * **[Class 3 Name]**: (Add more if applicable)
+* <img width="369" height="749" alt="Screenshot 2026-02-11 113835" src="https://github.com/user-attachments/assets/fb17c07b-03f7-4340-a2d4-244ec83e6a16" />
+<img width="493" height="760" alt="Screenshot 2026-02-11 113907" src="https://github.com/user-attachments/assets/7697e08b-4e0f-4fb4-83bc-0245162c1464" />
+<img width="395" height="764" alt="Screenshot 2026-02-11 113931" src="https://github.com/user-attachments/assets/0f5dafe4-13d6-4a67-87cc-66e06013e7d6" />
+
+
+
 
 ## 🛠️ How it was built
 - **Tool:** Teachable Machine by Google
